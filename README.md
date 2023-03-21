@@ -1,6 +1,6 @@
 ## Steven O'Hanlon-Rose
 
-👋 Hi, I'm Steve. I'm a UX engineer at [Octopus Deploy](https://octopus.com/) working in the frontend platform team. Previously I have worked at [Outfit Brand Automation](https://outfit.io/) where I worked to improve their flagship product, a brand collateral cms for easy, decentralised and consistent marketing.
+👋 Hi, I'm Steve. I'm a UX engineer at [Console Connect](https://consoleconnect.com/). Previously I have worked at [Outfit Brand Automation](https://outfit.io/) where I worked to improve their flagship product, a brand collateral cms for easy, decentralised and consistent marketing; and [Octopus Deploy](https://octopus.com/) working in the frontend platform team on Design Systems & UX Engineering projects.
 
 ### About Me
 
