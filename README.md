@@ -2,6 +2,11 @@
 
 👋 Hi, I'm Steve. I'm a UX engineer at [Console Connect](https://consoleconnect.com/). Previously I have worked at [Outfit Brand Automation](https://outfit.io/) where I worked to improve their flagship product, a brand collateral cms for easy, decentralised and consistent marketing; and [Octopus Deploy](https://octopus.com/) working in the frontend platform team on Design Systems & UX Engineering projects.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steveoh-rose&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=steveoh-rose&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+</div>
+
 ### About Me
 
 - 🔭 I’m currently working on: my portfolio - a newer version showing off all the UI design I've learned.
