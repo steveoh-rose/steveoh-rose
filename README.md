@@ -2,7 +2,13 @@
 
 👋 Hi, I'm Steve. I'm a UX engineer at [Console Connect](https://consoleconnect.com/). Previously I have worked at [Outfit Brand Automation](https://outfit.io/) where I worked to improve their flagship product, a brand collateral cms for easy, decentralised and consistent marketing; and [Octopus Deploy](https://octopus.com/) working in the frontend platform team on Design Systems & UX Engineering projects.
 
-<div align="start">
+<div align="start" media="(prefers-color-scheme: light)">
+  <img src="https://tinyurl.com/yvz72hn3" height="120" alt="stats graph"  />
+  <img src="https://tinyurl.com/light-languages" height="120" alt="languages graph"  />
+  <img src="https://tinyurl.com/light-streak" height="120" alt="streak graph"  />
+</div>
+
+<div align="start" media="(prefers-color-schema: dark)">
   <img src="https://tinyurl.com/7c8spdw6" height="120" alt="stats graph"  />
   <img src="https://tinyurl.com/5n8zfpfj" height="120" alt="streak graph"  />
   <img src="https://tinyurl.com/4zyj7v78" height="120" alt="languages graph"  />
