@@ -7,7 +7,13 @@
 <picture align="start">
   <source media="(prefers-color-scheme: light)" srcset="https://tinyurl.com/43vdkshf"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://tinyurl.com/2tb5e9xr"/>
-  <img src="https://tinyurl.com/yvz72hn3" height="150" alt="stats graph"  />
+  <img src="https://tinyurl.com/43vdkshf" height="150" alt="stats graph"  />
+</picture>
+
+<picture align="start">
+  <source media="(prefers-color-scheme: light)" srcset="https://tinyurl.com/mr29r5sv"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://tinyurl.com/uy5h93cs"/>
+  <img src="https://tinyurl.com/mr29r5sv" height="150" alt="languages graph"  />
 </picture>
 
 ### About Me
