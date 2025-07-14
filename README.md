@@ -2,18 +2,14 @@
 
 👋 Hi, I'm Steve. I'm a UX engineer at [Console Connect](https://consoleconnect.com/). Previously I have worked at [Outfit Brand Automation](https://outfit.io/) where I worked to improve their flagship product, a brand collateral cms for easy, decentralised and consistent marketing; and [Octopus Deploy](https://octopus.com/) working in the frontend platform team on Design Systems & UX Engineering projects.
 
-### Stats
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=steveoh-rose)
+
+### Contributions
 
 <picture align="start">
   <source media="(prefers-color-scheme: light)" srcset="https://tinyurl.com/43vdkshf"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://tinyurl.com/2tb5e9xr"/>
-  <img src="https://tinyurl.com/43vdkshf" height="150" alt="stats graph"  />
-</picture>
-
-<picture align="start">
-  <source media="(prefers-color-scheme: light)" srcset="https://tinyurl.com/mr29r5sv"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://tinyurl.com/uy5h93cs"/>
-  <img src="https://tinyurl.com/mr29r5sv" height="150" alt="languages graph"  />
+  <img src="https://tinyurl.com/43vdkshf" height="200" alt="stats graph"  />
 </picture>
 
 ### About Me
@@ -44,6 +40,7 @@
 **Design**
 - [Figma](https://www.figma.com/)
 - [Framer](https://www.framer.com/)
+- [Rive](https://rive.app/)
 - [Protopie](https://www.protopie.io/)
 - [After Effects](https://www.adobe.com/au/products/aftereffects.html)
 - [Blender 3D](https://www.blender.org/)
