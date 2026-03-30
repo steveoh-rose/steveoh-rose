@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: WebGL and Three.js through [Three.js Journey](https://threejs-journey.com/) by Bruno Simons.
 - 🤔 I’m looking at upskilling my: React skills by taking [Epic React](https://epicreact.dev/) by Kent C. Dodds. 
 - 💬 Ask me about: Design, Dev, Fungi, 3D art (including voxel art), donuts and robots!
-- 📫 How to reach me: steven@oh-rose.com
+- 📫 How to reach me: stevenohanlonrose@gmail.com
 - ⚡ Fun fact: I used to be an interactive artist working for Ars Electronic.
 
 ### 🛠️ Tools I Like to Use
