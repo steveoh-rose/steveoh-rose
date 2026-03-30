@@ -19,8 +19,7 @@
 **Development**
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Next 13](https://nextjs.org/)
+- [Next](https://nextjs.org/)
 - [Scss](https://sass-lang.com/)
 - [Sanity.io](https://www.sanity.io/)
 - [Node](https://nodejs.org/en/)
