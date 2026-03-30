@@ -4,13 +4,6 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=steveoh-rose)
 
-### Contributions
-
-<picture align="start">
-  <source media="(prefers-color-scheme: light)" srcset="https://tinyurl.com/43vdkshf"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://tinyurl.com/2tb5e9xr"/>
-  <img src="https://tinyurl.com/43vdkshf" height="200" alt="stats graph"  />
-</picture>
 
 ### About Me
 
