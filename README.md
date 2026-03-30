@@ -19,7 +19,6 @@
 - 🤔 I’m looking at upskilling my: React skills by taking [Epic React](https://epicreact.dev/) by Kent C. Dodds. 
 - 💬 Ask me about: Design, Dev, Fungi, 3D art (including voxel art), donuts and robots!
 - 📫 How to reach me: steven@oh-rose.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be an interactive artist working for Ars Electronic.
 
 ### 🛠️ Tools I Like to Use
